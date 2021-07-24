@@ -1,4 +1,4 @@
-public class Solution {
+public  class d2 {
     int carry = 0;//记录进位
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         //定义终止条件，当l1,l2指针都为null时且进位为0 ->null
@@ -23,4 +23,8 @@ public class Solution {
 
 
     }
+    ListNode l1= [5,6,4];
+    ListNode l2=[2,4,3];
+    public static void main(String args[]){
+        ListNode addTwoNumbers(ListNode l1, ListNode l2);
 }
