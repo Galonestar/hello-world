@@ -1,0 +1,10 @@
+<html> </html>
+<br />
+
+包含关系
+<head>
+	<title> </title>
+</head>
+并列关系
+<head> </head>
+<body> </body>
